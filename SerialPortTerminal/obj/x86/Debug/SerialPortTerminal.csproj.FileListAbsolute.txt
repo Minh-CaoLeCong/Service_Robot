@@ -1,0 +1,14 @@
+D:\Project\Project\Net\sms\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.exe.config
+D:\Project\Project\Net\sms\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.exe.manifest
+D:\Project\Project\Net\sms\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.application
+D:\Project\Project\Net\sms\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.exe
+D:\Project\Project\Net\sms\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.pdb
+D:\Project\Project\Net\sms\SerialPortTerminal\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Project\Net\sms\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.frmAbout.resources
+D:\Project\Project\Net\sms\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.frmTerminal.resources
+D:\Project\Project\Net\sms\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.Properties.Resources.resources
+D:\Project\Project\Net\sms\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.csproj.GenerateResource.Cache
+D:\Project\Project\Net\sms\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.exe.manifest
+D:\Project\Project\Net\sms\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.application
+D:\Project\Project\Net\sms\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.exe
+D:\Project\Project\Net\sms\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.pdb

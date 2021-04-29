@@ -1,0 +1,35 @@
+﻿<Window x:Class="LoginWPF_Part1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoginWPF_Part1"
+        mc:Ignorable="d"
+        xmlns:wpf="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Login" Height="400" Width="600" WindowStyle="None" Background="Transparent" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Rectangle RadiusY="7.895" RadiusX="7.895" Fill="White"/>
+        <Grid Margin="300,0,0,0">
+            <Image Source="Assets/welcome1.jpg" Stretch="Fill"/>
+            <Button x:Name="BtnClose" HorizontalAlignment="Left" VerticalAlignment="Top" Background="{x:Null}" BorderBrush="{x:Null}" Width="30" Height="30" Padding="0" Click="BtnClose_Click" Margin="270,0,0,0">
+                <materialDesign:PackIcon Kind="Close"/>
+            </Button>
+        </Grid>
+        <StackPanel Margin="20,80,320,100">
+            <Label Content="Login" FontFamily="Segoe UI Black" FontSize="24" Margin="0,10" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+            <StackPanel Orientation="Horizontal"/>
+            <StackPanel Margin="0,5" Orientation="Horizontal">
+                <materialDesign:PackIcon Kind="Account" VerticalAlignment="Center" Foreground="#707070"/>
+                <TextBox x:Name="TxtUser" materialDesign:HintAssist.Hint="User" Width="230" Margin="5"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <materialDesign:PackIcon Kind="Key" VerticalAlignment="Center" Foreground="#707070"/>
+                <PasswordBox x:Name="TxtPasswords" materialDesign:HintAssist.Hint="Passwords" Width="230" Margin="5"/>
+            </StackPanel>
+            <Grid/>
+            <Button x:Name="BtnLogin" HorizontalAlignment="Center" Content="LOGIN" FontFamily="Segoe UI Black" FontSize="18" Width="100" Margin="20" Background="Cyan" BorderBrush="Cyan" Click="BtnLogin_Click"/>
+            <StackPanel Orientation="Horizontal" Margin="10,35"/>
+        </StackPanel>
+    </Grid>
+</Window>

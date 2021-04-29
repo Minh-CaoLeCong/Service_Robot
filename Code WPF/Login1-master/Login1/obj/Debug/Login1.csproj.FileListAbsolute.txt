@@ -1,0 +1,61 @@
+D:\visual studio 2017\Projects\Login1\Login1\obj\Debug\Login1.csprojResolveAssemblyReference.cache
+D:\visual studio 2017\Projects\Login1\Login1\obj\Debug\MainWindow.g.cs
+D:\visual studio 2017\Projects\Login1\Login1\obj\Debug\App.g.cs
+D:\visual studio 2017\Projects\Login1\Login1\obj\Debug\Login1_MarkupCompile.cache
+D:\visual studio 2017\Projects\Login1\Login1\obj\Debug\Login1_MarkupCompile.lref
+D:\visual studio 2017\Projects\Login1\Login1\bin\Debug\Login1.exe.config
+D:\visual studio 2017\Projects\Login1\Login1\bin\Debug\Login1.exe
+D:\visual studio 2017\Projects\Login1\Login1\bin\Debug\Login1.pdb
+D:\visual studio 2017\Projects\Login1\Login1\bin\Debug\MaterialDesignColors.dll
+D:\visual studio 2017\Projects\Login1\Login1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\visual studio 2017\Projects\Login1\Login1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\visual studio 2017\Projects\Login1\Login1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\visual studio 2017\Projects\Login1\Login1\obj\Debug\App.baml
+D:\visual studio 2017\Projects\Login1\Login1\obj\Debug\MainWindow.baml
+D:\visual studio 2017\Projects\Login1\Login1\obj\Debug\Login1.g.resources
+D:\visual studio 2017\Projects\Login1\Login1\obj\Debug\Login1.Properties.Resources.resources
+D:\visual studio 2017\Projects\Login1\Login1\obj\Debug\Login1.csproj.GenerateResource.Cache
+D:\visual studio 2017\Projects\Login1\Login1\obj\Debug\Login1.csproj.CoreCompileInputs.cache
+D:\visual studio 2017\Projects\Login1\Login1\obj\Debug\Login1.exe
+D:\visual studio 2017\Projects\Login1\Login1\obj\Debug\Login1.pdb
+C:\Users\hp\Downloads\Login1-master\Login1\bin\Debug\Login1.exe.config
+C:\Users\hp\Downloads\Login1-master\Login1\obj\Debug\Login1.exe
+C:\Users\hp\Downloads\Login1-master\Login1\obj\Debug\Login1.pdb
+C:\Users\hp\Downloads\Login1-master\Login1\bin\Debug\Login1.exe
+C:\Users\hp\Downloads\Login1-master\Login1\bin\Debug\Login1.pdb
+C:\Users\hp\Downloads\Login1-master\Login1\bin\Debug\MaterialDesignColors.dll
+C:\Users\hp\Downloads\Login1-master\Login1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\hp\Downloads\Login1-master\Login1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\hp\Downloads\Login1-master\Login1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\hp\Downloads\Login1-master\Login1\obj\Debug\Login1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\Login1-master\Login1\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Downloads\Login1-master\Login1\obj\Debug\App.g.cs
+C:\Users\hp\Downloads\Login1-master\Login1\obj\Debug\Login1_MarkupCompile.cache
+C:\Users\hp\Downloads\Login1-master\Login1\obj\Debug\Login1_MarkupCompile.lref
+C:\Users\hp\Downloads\Login1-master\Login1\obj\Debug\App.baml
+C:\Users\hp\Downloads\Login1-master\Login1\obj\Debug\MainWindow.baml
+C:\Users\hp\Downloads\Login1-master\Login1\obj\Debug\Login1.g.resources
+C:\Users\hp\Downloads\Login1-master\Login1\obj\Debug\Login1.Properties.Resources.resources
+C:\Users\hp\Downloads\Login1-master\Login1\obj\Debug\Login1.csproj.GenerateResource.Cache
+D:\Dai hoc\Service Robot\Code C#\Login1-master\Login1\bin\Debug\Login1.exe.config
+D:\Dai hoc\Service Robot\Code C#\Login1-master\Login1\obj\Debug\Login1.exe
+D:\Dai hoc\Service Robot\Code C#\Login1-master\Login1\obj\Debug\Login1.pdb
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\bin\Debug\Login1.exe.config
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\obj\Debug\Login1.exe
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\obj\Debug\Login1.pdb
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\obj\Debug\Login1.csprojResolveAssemblyReference.cache
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\obj\Debug\MainWindow.g.cs
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\obj\Debug\App.g.cs
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\obj\Debug\Login1_MarkupCompile.cache
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\obj\Debug\Login1_MarkupCompile.lref
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\bin\Debug\Login1.exe
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\bin\Debug\Login1.pdb
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\bin\Debug\MaterialDesignColors.dll
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\obj\Debug\App.baml
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\obj\Debug\MainWindow.baml
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\obj\Debug\Login1.g.resources
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\obj\Debug\Login1.Properties.Resources.resources
+D:\Dai hoc\Service Robot\Code WPF\Login1-master\Login1\obj\Debug\Login1.csproj.GenerateResource.Cache
